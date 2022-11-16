@@ -1,0 +1,17 @@
+{
+  "name": "type-challenges",
+  "version": "1.0.0",
+  "description": "Solutions for typescript type challenges (https://tsch.js.org/)",
+  "private": true,
+  "scripts": {
+    "type-check": "tsc --noEmit"
+  },
+  "keywords": [
+    "type-challenges"
+  ],
+  "author": "pablogq <pablogq@outlook.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
